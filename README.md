@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ali</h1>
 <h3 align="center">A passionate Back-End, Front-End Developer | Software Engineer | Mobile Application Developer from Turkey</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alitekn07&label=Profile%20views&color=0e75b6&style=flat" alt="alitekn07" /> </p>
+
 ## Graduation 🎓
 
 Computer Programming |  [Bartin University](https://w3.bartin.edu.tr/)
@@ -14,7 +16,7 @@ Software Engineering |  [Toros University](https://toros.edu.tr/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/alitekn07/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali̇tekn07" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ali̇tekn07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali̇tekn07" height="30" width="40" /></a>
 <a href="https://instagram.com/alitekn07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alitekn07" height="30" width="40" /></a>
 </p>
 
