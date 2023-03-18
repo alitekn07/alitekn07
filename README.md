@@ -6,7 +6,7 @@ I'm Ali Tekin. Back-End, Front-End Developer | Software Engineer | Mobile Applic
 
 ![Mustafa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alitekn07&show_icons=true)
 
-## Graduation
+## Graduation 🎓
 
 Computer Programming |  [Bartin University](https://w3.bartin.edu.tr/)
 
