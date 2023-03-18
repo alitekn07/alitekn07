@@ -7,12 +7,7 @@ Computer Programming |  [Bartin University](https://w3.bartin.edu.tr/)
 
 Software Engineering |  [Toros University](https://toros.edu.tr/)
 
-<h1 align="center">Hi 👋, I'm Ali</h1>
-<h3 align="center">A passionate Back-End, Front-End Developer | Software Engineer | Mobile Application Developer from Turkey</h3>
-
 - 🌱 I’m currently learning **C | C++ | C# | PYTHON | JAVA | JAVASCRIPT | RUBBY | SWIFT | PHP | CSS3 | HTML5 | BOOTSTRAP | NODEJS | FLUTTER | KOTLIN | XAMARIN | ANDROID | DJANGO | .NET | PHOTOSHOP | REACT | MONGODB**
-
-- 💬 Ask me about **Anything**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
