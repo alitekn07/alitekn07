@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi! Welcome to my github page. 👋
 
-<!--
-**alitekn07/alitekn07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm Ali Tekin. Back-End, Front-End Developer | Software Engineer | Mobile Application Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![Mustafa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alitekn07&show_icons=true)
+
+## Graduation
+
+Computer Programming |  [Bartin University](https://w3.bartin.edu.tr/)
+
+Software Engineering |  [Toros University](https://toros.edu.tr/)
+
+## Contact Me 📫
+
+You can find and get touch with me via Linkedin and Instagram!
+
+[![Linkedin Badge](https://img.shields.io/badge/mustafamuratcoskun-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alitekn07/)
+[![Instagram Badge](https://img.shields.io/badge/mustafamuratcoskun-follow%20on%20instagram-blue?style=for-the-badge&logo=instagram)](https://instagram.com/alitekn07/)
