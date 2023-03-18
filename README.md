@@ -7,9 +7,6 @@ Computer Programming |  [Bartin University](https://w3.bartin.edu.tr/)
 
 Software Engineering |  [Toros University](https://toros.edu.tr/)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alitekn07&label=Profile%20views&color=0e75b6&style=flat" alt="alitekn07" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alitekn07" alt="alitekn07" /></a> </p>
 
 - 🌱 I’m currently learning **C | C++ | C# | PYTHON | JAVA | JAVASCRIPT | RUBBY | SWIFT | PHP | CSS3 | HTML5 | BOOTSTRAP | NODEJS | FLUTTER | KOTLIN | XAMARIN | ANDROID | DJANGO | .NET | PHOTOSHOP | REACT | MONGODB**
 
