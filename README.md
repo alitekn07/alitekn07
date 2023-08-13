@@ -9,7 +9,7 @@ Software Engineering |  [Toros University](https://toros.edu.tr/)
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alitekn07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alitekn07) <p align="center"> <img src="https://komarev.com/ghpvc/?username=alitekn07&label=Profile%20views&color=0e75b6&style=flat" alt="alitekn07" /> </p>
+[<p align="center"> ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alitekn07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alitekn07) <p align="center"> <img src="https://komarev.com/ghpvc/?username=alitekn07&label=Profile%20views&color=0e75b6&style=flat" alt="alitekn07" /> </p>
 
 
 ## 💻 Tech Stack:
