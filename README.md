@@ -7,7 +7,7 @@ Computer Programming |  [Bartin University](https://w3.bartin.edu.tr/)
 
 Software Engineering |  [Toros University](https://toros.edu.tr/)
 
-IT Management |  [Agh University Of Science And Technology](https://www.agh.edu.pl/en/)
+IT Project Management |  [Agh University Of Science And Technology](https://www.agh.edu.pl/en/)
 
 
 ## 🌐 Socials:
