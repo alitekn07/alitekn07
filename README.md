@@ -1,5 +1,5 @@
 <h1 align="center">Hi, It‘s Ali</h1>
-<h3 align="center">A passionate Back-End, Front-End Developer | Software Engineer | Mobile Application Developer from Turkey</h3>
+<h3 align="center">A passionate Back-End, Front-End Developer | Mobile Application Developer | Management Expert</h3>
 
 ## Graduation 🎓
 
