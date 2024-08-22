@@ -1,5 +1,5 @@
 <h1 align="center">Hi, It‘s Ali</h1>
-<h3 align="center">Front-End Focused Web & Mobile Developer | Project Analyst | Strategy & Management Expert</h3>
+<h3 align="center">Front-End Focused Web & Mobile Developer | Project Analyst | Strategy & Management Expert | Quality Control Specialist</h3>
 
 ## Graduation 🎓
 
