@@ -16,12 +16,6 @@ IT Project Management |  [Agh University Of Science And Technology](https://www.
 
 ## 💻 Tech Stack:
 
-### Mobil Programming
-
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=flat&logo=swift&logoColor=white)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=swift&logoColor=white)
-
 ### Web Programming
 #### Front-End
 
